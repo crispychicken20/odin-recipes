@@ -1,3 +1,3 @@
 # odin-recipes
 
-# Creating a recipe style book
+creating a recipe book
