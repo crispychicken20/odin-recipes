@@ -1,0 +1,16 @@
+.box-one{
+    height: 210;
+    width: 500px;
+    background-color: lightblue;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 50px;
+    margin: auto;
+}
+
+a {
+    font-size: 50px;
+    font-weight: bold;
+}
+
